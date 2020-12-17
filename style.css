@@ -1,0 +1,12 @@
+body {
+	margin:0;
+}
+div {
+	background: black;
+	height:150px;}
+}
+a {
+	color: yellow;
+	text-decoration: none;
+	font-size: 40px;
+}
